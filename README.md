@@ -14,6 +14,12 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 ## 🚀 Quick Links
 <p align="center">
   <a href="https://meraj-mu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=webflow&logoColor=white" /></a>
@@ -41,36 +47,9 @@
 
 ---
 
-# 🔥 GitHub Stats (Animated)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meraj-1&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Meraj-1&theme=radical" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Meraj-1&theme=radical&margin-w=10&no-frame=true" />
 </p>
-
----
-
-# 📈 Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00eaff/Meraj-1" alt="GitHub chart" />
-</p>
-
----
-
-## 🔥 Live Animated Line Graph (QuickChart Sparkline)
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'sparkline',data:{datasets:[{data:[2,3,6,4,8,10,7,12,9]}]}}" />
-</p>
-
----
-
-# 🌟 Featured Project — Real Estate Platform
 
 ### 🚀 **Live Demo**  
 👉 https://real-estate2-psi.vercel.app/
@@ -82,29 +61,7 @@
 - Advanced filters & search  
 - Smooth animations  
 
----
-
-# 🌌 Custom SVG Wave Animation (Banner)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/wave.svg" />
-</p>
-
----
-
 # 🎇 Animated Snake Eating Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🎬 Cool Animated Developer GIF
-
-<p align="center">
-  <img width="70%" src="https://i.gifer.com/7VE.gif" />
-</p>
 
 
 # 🚀 About Me (Animated)
