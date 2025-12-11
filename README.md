@@ -40,13 +40,10 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Meraj-1&theme=radical&margin-w=10&no-frame=true" />
 </p>
 
-### 🚀 **Live Demo**  
-👉 https://real-estate2-psi.vercel.app/
 
 ### 🌐 **Why It’s Special**
 - Super clean UI  
@@ -54,11 +51,6 @@
 - MongoDB + Express REST APIs  
 - Advanced filters & search  
 - Smooth animations  
-
-# 🎇 Animated Snake Eating Contributions
-
-
-# 🚀 About Me (Animated)
 
 + 🔭 I build full-stack MERN applications
 + 💡 I love building real-time & high-performance apps
