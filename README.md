@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Animated header GIF (replace with your own GIF hosted in repo or an external URL) -->
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/header.gif" alt="Animated Header" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Meraj-1/REPO/main/header.gif" alt="Animated Header" width="100%"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm <strong>Meraj Ansari</strong></h2>
@@ -30,18 +30,18 @@
 
 ## 📊 Live GitHub Stats & Graphs
 
-<!-- Replace MERAJ_GITHUB with your GitHub username -->
+<!-- Replace Meraj-1 with your GitHub username -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MERAJ_GITHUB&show_icons=true&theme=radical&count_private=true" alt="Meraj's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MERAJ_GITHUB&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Meraj-1&show_icons=true&theme=radical&count_private=true" alt="Meraj's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meraj-1&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ### 🔥 Contribution Activity
 
 <p align="center">
   <!-- GitHub contribution graph image (static) -->
-  <img src="https://ghchart.rshah.org/MERAJ_GITHUB" alt="GitHub chart" />
+  <img src="https://ghchart.rshah.org/Meraj-1" alt="GitHub chart" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ Example image tag:
 
 ## 🛠 How to personalize (3 quick steps)
 
-1. Replace all `MERAJ_GITHUB`, `USERNAME`, `REPO` placeholders with your **actual GitHub username** and repo name.
+1. Replace all `Meraj-1`, `Meraj-1`, `REPO` placeholders with your **actual GitHub username** and repo name.
 2. Replace `header.gif` with your own animated banner (push it to your repo and use `raw.githubusercontent.com/.../header.gif`).
 3. For live charts, replace the QuickChart data with your own metrics or use a small script to periodically update a JSON endpoint and point QuickChart to it.
 
@@ -130,4 +130,6 @@ If you want that, tell me **your GitHub username** and **repo name** — I will 
 * **(B)** Create a GitHub Action workflow that auto-updates stats/graphs.
 
 Tell me which one and I’ll add it right away.
+
+
 
