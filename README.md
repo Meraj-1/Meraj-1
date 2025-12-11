@@ -90,11 +90,9 @@ You can add animated banners using Lottie or a GIF:
 
 Example image tag:
 
-```html
 <p align="center">
   <img src="https://assets9.lottiefiles.com/packages/lf20_XXXXXXXXX.gif" alt="Lottie animation" width="100%" />
 </p>
-```
 
 ---
 
