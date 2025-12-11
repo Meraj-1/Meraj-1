@@ -39,12 +39,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meraj-1&theme=radical&margin-w=10&no-frame=true" />
-</p>
-
-
 ### 🌐 **Why It’s Special**
 - Super clean UI  
 - Fast & responsive  
