@@ -1,133 +1,119 @@
-# 🚀 Meraj Ansari — Full-Stack MERN Developer
+<!-- ──────────────────────────────────────────────────────────── -->
+<!-- 🚀 ULTIMATE ANIMATED README FOR MERAJ ANSARI (MERAN-1)       -->
+<!-- ──────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <!-- Animated header GIF (replace with your own GIF hosted in repo or an external URL) -->
-  <img src="https://raw.githubusercontent.com/Meraj-1/REPO/main/header.gif" alt="Animated Header" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Meraj-1/Meraj-1/main/banner.gif" width="100%" />
 </p>
 
-<h2 align="center">Hi 👋, I'm <strong>Meraj Ansari</strong></h2>
-<p align="center">Full-Stack MERN Developer — building modern, scalable & performant web apps.</p>
-
----
-
-## 🔗 Quick Links
-
-* Portfolio: **[https://meraj-mu.vercel.app/](https://meraj-mu.vercel.app/)**
-* Live Project: **[https://real-estate2-psi.vercel.app/](https://real-estate2-psi.vercel.app/)**
-* Email: **[mohdmerajansari76@gmail.com](mailto:mohdmerajansari76@gmail.com)**
-
----
-
-## ✨ Highlights (animated badges)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Work-brightgreen?style=for-the-badge" alt="Open for work" />
-  <img src="https://img.shields.io/badge/Stack-MERN-Informational?style=for-the-badge" alt="MERN" />
-  <img src="https://img.shields.io/badge/Top%20Langs-JavaScript%2CReact%2CNode-blue?style=for-the-badge" alt="langs" />
-</p>
-
----
-
-## 📊 Live GitHub Stats & Graphs
-
-<!-- Replace Meraj-1 with your GitHub username -->
+<h1 align="center">✨ Meraj Ansari — Full-Stack MERN Developer</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meraj-1&show_icons=true&theme=radical&count_private=true" alt="Meraj's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meraj-1&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3200&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+Expert;Building+Fast%2C+Modern+Web+Apps;Open+Source+Contributor+%F0%9F%92%9A" />
 </p>
 
-### 🔥 Contribution Activity
+---
+
+## 🚀 Quick Links
+<p align="center">
+  <a href="https://meraj-mu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=webflow&logoColor=white" /></a>
+  <a href="mailto:mohdmerajansari76@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2b3137?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://real-estate2-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-1e90ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ Badges & Cool Animations
 
 <p align="center">
-  <!-- GitHub contribution graph image (static) -->
-  <img src="https://ghchart.rshah.org/Meraj-1" alt="GitHub chart" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Work-27ae60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-MERN-4c9aff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-Lover-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-## 📈 Animated Mini-Graphs (example sparks using QuickChart)
-
-* **Weekly commits sparkline (example)**
-
-`![commits sparkline](https://quickchart.io/chart?c={type:'sparkline',data:{datasets:[{data:[3,5,2,8,7,9,6]}]}})`
-
-> To generate your own: use **QuickChart** with your dataset. Example URL template:
-
-```
-https://quickchart.io/chart?c={type:'line',data:{labels:['Mon','Tue','Wed','Thu','Fri','Sat','Sun'],datasets:[{label:'Commits',data:[3,5,2,8,7,9,6]}]},options:{elements:{point:{radius:0}}}}
-```
-
----
-
-## 🧩 Tech Stack (animated icons)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind" />
-</p>
-
----
-
-## 🎯 Featured Project — Real Estate Platform
-
-**Real Estate Platform** — responsive listing, filters, search, and user auth.
-Live: [https://real-estate2-psi.vercel.app/](https://real-estate2-psi.vercel.app/)
-
-**Why this stands out**
-
-* Clean UI & responsive layout
-* RESTful APIs with Express & MongoDB
-* Client-side performance optimizations
-
----
-
-## ✨ Visual Flair — Lottie / GIF banner (how-to)
-
-You can add animated banners using Lottie or a GIF:
-
-1. Create or pick a Lottie animation from [LottieFiles](https://lottiefiles.com/).
-2. Export as GIF or host the Lottie on LottieFiles and embed the GIF in your README (GitHub renders images only).
-
-Example image tag:
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://assets9.lottiefiles.com/packages/lf20_XXXXXXXXX.gif" alt="Lottie animation" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,tailwind,git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-## 🛠 How to personalize (3 quick steps)
+# 🔥 GitHub Stats (Animated)
 
-1. Replace all `Meraj-1`, `Meraj-1`, `REPO` placeholders with your **actual GitHub username** and repo name.
-2. Replace `header.gif` with your own animated banner (push it to your repo and use `raw.githubusercontent.com/.../header.gif`).
-3. For live charts, replace the QuickChart data with your own metrics or use a small script to periodically update a JSON endpoint and point QuickChart to it.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meraj-1&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Meraj-1&theme=radical" />
+</p>
 
----
-
-## 📬 Want this README deployed automatically?
-
-I can add a GitHub Action that:
-
-* Generates an up-to-date QuickChart image using your latest commit data,
-* Commits the updated `README.md` (or assets) automatically.
-
-If you want that, tell me **your GitHub username** and **repo name** — I will add the `action.yml` and workflow file.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Meraj-1&theme=radical&margin-w=10&no-frame=true" />
+</p>
 
 ---
 
-## ⚡ Final touches
+# 📈 Contribution Heatmap
 
-* Want dark-mode specific images? I can include a theme switcher using badges and conditional images.
-* Want a separate animated banner for `dark`/`light`? I can provide both GIFs and the logic for a GitHub Action to swap them.
+<p align="center">
+  <img src="https://ghchart.rshah.org/00eaff/Meraj-1" alt="GitHub chart" />
+</p>
 
 ---
 
-*Copy this README into your `README.md` and replace placeholders. If you want, I will now:*
+## 🔥 Live Animated Line Graph (QuickChart Sparkline)
 
-* **(A)** Fill in the placeholders using your GitHub username and repo, *or*
-* **(B)** Create a GitHub Action workflow that auto-updates stats/graphs.
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'sparkline',data:{datasets:[{data:[2,3,6,4,8,10,7,12,9]}]}}" />
+</p>
 
-Tell me which one and I’ll add it right away.
+---
+
+# 🌟 Featured Project — Real Estate Platform
+
+### 🚀 **Live Demo**  
+👉 https://real-estate2-psi.vercel.app/
+
+### 🌐 **Why It’s Special**
+- Super clean UI  
+- Fast & responsive  
+- MongoDB + Express REST APIs  
+- Advanced filters & search  
+- Smooth animations  
+
+---
+
+# 🌌 Custom SVG Wave Animation (Banner)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/wave.svg" />
+</p>
+
+---
+
+# 🎇 Animated Snake Eating Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🎬 Cool Animated Developer GIF
+
+<p align="center">
+  <img width="70%" src="https://i.gifer.com/7VE.gif" />
+</p>
+
+
+# 🚀 About Me (Animated)
+
++ 🔭 I build full-stack MERN applications
++ 💡 I love building real-time & high-performance apps
++ 🚀 Open to freelance & remote opportunities
++ 🎯 Goal: Become a top-class full-stack engineer
+
 
 
 
