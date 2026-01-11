@@ -25,12 +25,13 @@
 </p>
 
 ---
+  <iframe src="https://github.com/sponsors/Meraj-1/card" title="Sponsor Meraj-1" height="225" width="600" style="border: 0;"></iframe>
 
 ## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,tailwind,git,github,vscode,postman&theme=dark" />
-  <iframe src="https://github.com/sponsors/Meraj-1/card" title="Sponsor Meraj-1" height="225" width="600" style="border: 0;"></iframe>
+
 </p>
 
 ---
