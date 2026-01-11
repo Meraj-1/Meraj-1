@@ -1,60 +1,72 @@
-<!-- ──────────────────────────────────────────────────────────── -->
-<!-- 🚀 ULTIMATE ANIMATED README FOR MERAJ ANSARI (MERAN-1)       -->
-<!-- ──────────────────────────────────────────────────────────── -->
+# Meraj Ansari
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Meraj-1/Meraj-1/main/banner.gif" width="100%" />
-</p>
+**Full-Stack MERN Developer | Open-Source Contributor**
 
-<h1 align="center">✨ Meraj Ansari — Full-Stack MERN Developer</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3200&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+Expert;Building+Fast%2C+Modern+Web+Apps;Open+Source+Contributor+%F0%9F%92%9A" />
-</p>
-
-<p align="center">
-  <a href="https://meraj-mu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=webflow&logoColor=white" /></a>
-  <a href="mailto:mohdmerajansari76@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2b3137?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-  <a href="https://real-estate2-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-1e90ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Work-27ae60?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-MERN-4c9aff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-Lover-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+I am a full-stack JavaScript developer focused on building scalable, maintainable, and high-performance web applications using the MERN stack. I actively contribute to open-source and enjoy solving real-world problems through clean code and thoughtful system design.
 
 ---
-<a href="https://github.com/sponsors/Meraj-1" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-GitHub-%23ea4aaa?logo=github&style=for-the-badge">
+
+## 🔗 Links
+- 🌐 Portfolio: https://meraj-mu.vercel.app  
+- 📧 Email: mohdmerajansari76@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/Meraj-1  
+- 🚀 Live Project: https://real-estate2-psi.vercel.app  
+
+---
+
+## 💻 Tech Stack
+
+**Frontend**
+- React.js, Next.js
+- HTML5, CSS3, Tailwind CSS
+- JavaScript (ES6+), TypeScript
+
+**Backend**
+- Node.js, Express.js
+- REST APIs
+- Authentication & Authorization
+
+**Database**
+- MongoDB (Mongoose)
+
+**Tools**
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 🧠 What I Focus On
+- Clean, readable, and maintainable code
+- Scalable backend architecture
+- Performance optimization
+- Real-world production practices
+- Open-source collaboration
+
+---
+
+## 🌱 Open-Source & Collaboration
+I am actively working on open-source projects and welcome:
+- Feature requests
+- Bug reports
+- Pull requests
+- Technical discussions
+
+If you find my work useful, consider supporting it 👇
+
+---
+
+## ❤️ Support My Work
+<a href="https://github.com/sponsors/Meraj-1">
+  <img src="https://img.shields.io/badge/Sponsor_on_GitHub-%23ea4aaa?logo=github&style=for-the-badge" />
 </a>
 
-
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,tailwind,git,github,vscode,postman&theme=dark" />
-
-</p>
-
 ---
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-### 🌐 **Why It’s Special**
-- Super clean UI  
-- Fast & responsive  
-- MongoDB + Express REST APIs  
-- Advanced filters & search  
-- Smooth animations  
-
-+ 🔭 I build full-stack MERN applications
-+ 💡 I love building real-time & high-performance apps
-+ 🚀 Open to freelance & remote opportunities
-+ 🎯 Goal: Become a top-class full-stack engineer
+## 📌 Availability
+- Open to freelance & remote opportunities
+- Open to open-source collaboration
+- Long-term goal: Build impactful developer tools & products
 
 
 
