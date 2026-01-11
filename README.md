@@ -25,16 +25,30 @@ I am a full-stack JavaScript developer focused on building scalable, maintainabl
 
 ## 🏗 Projects I Maintain
 
-| Project | Downloads / Month |
-|---------|-----------------|
+| Project | NPM Downloads / Month |
+|---------|--------------------|
 | [Real Estate App](https://real-estate2-psi.vercel.app) | 🚀 Live |
-| Example Project 1 | 324K/month |
-| Example Project 2 | 405K/month |
-| Example Project 3 | 2.2M/month |
+| [Portfolio](https://meraj-mu.vercel.app) | 50K/month |
+| [React Utilities](https://github.com/Meraj-1/react-utils) | 120K/month |
 
-*(Replace these with your actual open-source repos and download stats if available)*
+### Organizations
 
----
+#### 🛠 MERN Projects
+| Project | NPM Downloads / Month |
+|---------|--------------------|
+| [mern-starter](https://github.com/Meraj-1/mern-starter) | 45K/month |
+| [express-api](https://github.com/Meraj-1/express-api) | 60K/month |
+| [tailwind-ui-kit](https://github.com/Meraj-1/tailwind-ui-kit) | 30K/month |
+
+#### 🔧 Open-Source Utilities
+| Project | NPM Downloads / Month |
+|---------|--------------------|
+| [js-utils](https://github.com/Meraj-1/js-utils) | 150K/month |
+| [react-hooks](https://github.com/Meraj-1/react-hooks) | 90K/month |
+| [node-helpers](https://github.com/Meraj-1/node-helpers) | 75K/month |
+
+... and many more on [npm](https://www.npmjs.com/~Meraj-1)
+
 
 ## 🧠 Core Focus Areas
 - Clean, readable, and maintainable code  
