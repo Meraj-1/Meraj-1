@@ -16,7 +16,7 @@ I am a full-stack JavaScript developer focused on building scalable, maintainabl
 
 ## 💻 Tech Stack
 
-**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript  
+**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)
 **Backend:** Node.js, Express.js, REST APIs, Authentication & Authorization  
 **Database:** MongoDB (Mongoose)  
 **Tools:** Git & GitHub, Postman, VS Code  
