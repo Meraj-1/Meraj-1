@@ -25,7 +25,10 @@
 </p>
 
 ---
-  <iframe src="https://github.com/sponsors/Meraj-1/card" title="Sponsor Meraj-1" height="225" width="600" style="border: 0;"></iframe>
+<a href="https://github.com/sponsors/Meraj-1" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-GitHub-%23ea4aaa?logo=github&style=for-the-badge">
+</a>
+
 
 ## 🧠 Tech Stack
 
