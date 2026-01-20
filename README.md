@@ -12,10 +12,6 @@ I build **scalable, maintainable, and secure web applications** using the **MERN
 [![GitHub](https://img.shields.io/badge/GitHub-Meraj--1-black?style=for-the-badge&logo=github)](https://github.com/Meraj-1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meraj-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/merajansari)
 
----
-
-## 🚀 Open-Source Highlights
-
 <a href="https://www.npmjs.com/package/auth-events">
   <img src="https://img.shields.io/npm/v/auth-events?color=brightgreen&style=for-the-badge&logo=npm" alt="npm version" />
 </a>
@@ -26,27 +22,14 @@ I build **scalable, maintainable, and secure web applications** using the **MERN
 [auth-events](https://www.npmjs.com/package/auth-events)  
 _Event-driven Node.js library for authentication, security automation, and bot detection._
 
----
-
 ## 💻 Tech Stack
 | Frontend | Backend | Database | Languages | Styling | Tools |
 |----------|--------|---------|-----------|--------|-------|
 | React.js, Next.js | Node.js, Express.js | MongoDB (Mongoose) | JS (ES6+), TS | Tailwind CSS | Git, VS Code, Postman |
 | HTML5, CSS3 | REST APIs, Auth | | | | |
 
-
-
-
-**Other notable projects:**  
-- **Forever eCommerce** – Full-stack MERN eCommerce platform with payment integration.  
-- **Real-Time To-Do Board** – Collaborative productivity app with live updates and smart conflict handling.  
-
----
-
 ## 📊 GitHub Stats & Activity
 ![Meraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meraj-1&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meraj-1&layout=compact&theme=tokyonight)
-
----
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
