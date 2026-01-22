@@ -10,7 +10,6 @@ I build **scalable, maintainable, and secure web applications** using the **MERN
 [![Website](https://img.shields.io/badge/Portfolio-meraj--mu.vercel.app-blue?style=for-the-badge&logo=google-chrome)](https://meraj-mu.vercel.app)
 [![Email](https://img.shields.io/badge/Email-mohdmerajansari76@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mohdmerajansari76@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Meraj--1-black?style=for-the-badge&logo=github)](https://github.com/Meraj-1)
-[![LinkedIn](https://www.linkedin.com/in/meraj-ansari-12bb132a9/)
 
 <a href="https://www.npmjs.com/package/auth-events">
   <img src="https://img.shields.io/npm/v/auth-events?color=brightgreen&style=for-the-badge&logo=npm" alt="npm version" />
