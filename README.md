@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Meraj-1&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Visitor Count](https://profile-counter.glitch.me/Meraj-1/count.svg)
 
 
 # 👋 Hi, I'm Meraj Ansari
