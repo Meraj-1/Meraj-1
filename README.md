@@ -23,7 +23,7 @@ I build **scalable, maintainable, and secure web applications** using the **MERN
   <img src="https://img.shields.io/npm/dm/auth-events?color=blue&style=for-the-badge&logo=npm" alt="npm downloads" />
 </a>
 
-[auth-events](https://www.npmjs.com/package/auth-events)  
+[auth-events]([https://www.npmjs.com/package/auth-events](https://auth-events-web.vercel.app/))  
 _Event-driven Node.js library for authentication, security automation, and bot detection._
 
 ## 💻 Tech Stack
