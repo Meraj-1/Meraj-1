@@ -26,6 +26,11 @@ I build **scalable, maintainable, and secure web applications** using the **MERN
 [auth-events](https://auth-events-web.vercel.app/) · [npm](https://www.npmjs.com/package/auth-events)  
 _Event-driven Node.js library for authentication, security automation, and bot detection._
 
+![Security First](https://img.shields.io/badge/Security-Event%20Driven-ef4444?style=for-the-badge)
+![Zero Tracking](https://img.shields.io/badge/Privacy-Zero%20Telemetry-22c55e?style=for-the-badge)
+
+
+
 ## 💻 Tech Stack
 | Frontend | Backend | Database | Languages | Styling | Tools |
 |----------|--------|---------|-----------|--------|-------|
