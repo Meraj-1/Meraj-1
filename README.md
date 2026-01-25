@@ -1,4 +1,6 @@
-![Visitor Count](https://profile-counter.glitch.me/Meraj-1/count.svg)
+![Last Updated](https://img.shields.io/github/last-commit/Meraj-1/Meraj-1?label=Profile%20Active&style=for-the-badge)
+
+
 
 
 # 👋 Hi, I'm Meraj Ansari
