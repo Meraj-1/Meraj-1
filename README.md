@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Meraj-1&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+
 # 👋 Hi, I'm Meraj Ansari
 
 **Full-Stack MERN Developer | Open-Source Creator | Security Enthusiast**
