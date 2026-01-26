@@ -1,4 +1,7 @@
 ![Last Updated](https://img.shields.io/github/last-commit/Meraj-1/Meraj-1?label=Profile%20Active&style=for-the-badge)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MerajAnsari&label=Visitors&color=6366f1&style=for-the-badge" />
+</p>
 
 
 
